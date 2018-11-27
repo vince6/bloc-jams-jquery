@@ -42,5 +42,4 @@
     const prevSong = album.songs[prevSongIndex];
     helper.playerPauseAndUpdate(prevSong);
   });
-
 }
